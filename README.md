@@ -1,3 +1,3 @@
 # Origins - AdditionalAdditions Addon
 
-A simple addon to add AdditionalAdditions support to ExtraOrigins!
+A simple Fabric mod to add AdditionalAdditions support to ExtraOrigins!
