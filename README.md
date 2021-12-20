@@ -1,1 +1,3 @@
-# extraorigins-additionaladditions-addon
+# Origins - AdditionalAdditions Addon
+
+A simple addon to add AdditionalAdditions support to ExtraOrigins!
