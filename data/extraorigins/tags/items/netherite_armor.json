@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "additionaladditions:gilded_netherite_helmet",
+    "additionaladditions:gilded_netherite_chestplate",
+    "additionaladditions:gilded_netherite_leggings",
+    "additionaladditions:gilded_netherite_boots"
+  ]
+}
